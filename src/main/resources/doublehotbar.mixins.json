@@ -9,6 +9,7 @@
   "server": [
   ],
   "client": [
+    "regui.HotbarWidgetMixin"
   ],
   "injectors": {
     "defaultRequire": 1
