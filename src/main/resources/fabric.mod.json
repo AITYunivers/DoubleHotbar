@@ -29,6 +29,7 @@
 
   "depends": {
     "minecraft": "1.0.0-beta.7.3",
-    "regui": ">=1.1.5"
+    "regui": ">=1.1.5",
+    "stationapi": "2.0.0-alpha.4.1"
   }
 }
